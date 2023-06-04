@@ -154,5 +154,6 @@ while (p!=6):
     print_menu()
     p=int(input("Enter choice from 1-6 - "))
     print()
+print("Quit")
     
         
